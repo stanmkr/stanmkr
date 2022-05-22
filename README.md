@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I am Stanislav Krastev!👋</h1>
 <h3 align="center">I am a keen junior software developer. I am currently studying multiplatform application development at IES Thiar (Pilar de la Horadada, Spain). I am combining my studies at IES Thiar with the Java course at the software university @SoftUni. </br>I'm also doing projects of website and woocommerce websites with Wordpress.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
